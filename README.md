@@ -2,6 +2,13 @@
 
 A library for NTLM authentication in Dart/Flutter.
 
+## Syncronika Notes
+
+This library seems to be no longer mantained. In this repo, some other PR has been merged:
+
+- [Maryusz/ntlm](https://github.com/Maryusz/ntlm/tree/master): update packages for new Dart guidelines
+- [amadejzr/ntlm](https://github.com/amadejzr/ntlm/tree/encoding-fix): fix for password encoding
+
 ## Installing
 
 Add the dependency to your `pubspec.yaml` file:
